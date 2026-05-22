@@ -1,4 +1,8 @@
 <Solution>
+  <Folder Name="/Solution Items/">
+    <File Path=".dockerignore" />
+    <File Path="docker-compose.yml" />
+  </Folder>
   <Project Path="TaskManager.Api/TaskManager.Api.csproj" />
   <Project Path="TaskManager.Business/TaskManager.Business.csproj" />
   <Project Path="TaskManager.Data/TaskManager.Data.csproj" />
